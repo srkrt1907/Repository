@@ -1,0 +1,1 @@
+Hibernate ile ilk deneme kodum. Burada iliþkilerin kodlari mevcuttur.
