@@ -1,0 +1,5 @@
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Kruskal\bin\Release\Kruskal.dll
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Kruskal\bin\Release\Kruskal.pdb
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Kruskal\obj\Release\Kruskal.csprojResolveAssemblyReference.cache
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Kruskal\obj\Release\Kruskal.dll
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Kruskal\obj\Release\Kruskal.pdb

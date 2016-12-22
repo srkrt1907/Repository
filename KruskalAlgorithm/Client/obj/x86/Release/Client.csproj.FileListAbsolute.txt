@@ -1,0 +1,12 @@
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\bin\Release\Client.exe.config
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\bin\Release\Client.exe
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\bin\Release\Client.pdb
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\bin\Release\Kruskal.dll
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\bin\Release\Kruskal.pdb
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\obj\x86\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\obj\x86\Release\Kruskal.frmCost.resources
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\obj\x86\Release\Kruskal.frmMain.resources
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\obj\x86\Release\Client.Properties.Resources.resources
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\obj\x86\Release\Client.exe
+C:\Users\Kafein\Documents\akamai\KruskalAlgorithm\Client\obj\x86\Release\Client.pdb
